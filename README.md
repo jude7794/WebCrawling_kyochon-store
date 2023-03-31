@@ -1,10 +1,10 @@
 # WebCrawling_kyochon-store
 ## 교촌치킨 매장 데이터 웹크롤링
 
-###정적 크롤링이란?
+정적 크롤링이란?
 웹 페이지를 가져와서 한 페이지 안에서 원하는 정보가 모두 드러나는 정적인 데이터를 추출해 내는 방법
 
-###사용한 패키지:
+사용한 패키지:
 BeautifulSoup - html 파싱
 urllib.request - html 문서 가져올 때 필요
 pandas - 데이터를 데이터프레임으로 만들 때 필요
