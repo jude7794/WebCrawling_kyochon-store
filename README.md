@@ -8,8 +8,11 @@
 BeautifulSoup - html 파싱
 urllib.request - html 문서 가져올 때 필요
 pandas - 데이터를 데이터프레임으로 만들 때 필요
-사용 함수)
-find_all: 기준에 맞는 태그를 모두 추출   /   find: 조건을 만족하는 태그 하나만 추출   /   select: 여러 옵션을 사용해 원하는 데이터 추출    
+
+사용 함수:
+find_all: 기준에 맞는 태그를 모두 추출
+find: 조건을 만족하는 태그 하나만 추출   
+select: 여러 옵션을 사용해 원하는 데이터 추출    
 
 
 ### kyochon 크롤링
