@@ -4,14 +4,14 @@
 정적 크롤링이란?
 웹 페이지를 가져와서 한 페이지 안에서 원하는 정보가 모두 드러나는 정적인 데이터를 추출해 내는 방법
 
-사용한 패키지:
-BeautifulSoup - html 파싱
-urllib.request - html 문서 가져올 때 필요
-pandas - 데이터를 데이터프레임으로 만들 때 필요
+사용한 패키지:  
+BeautifulSoup - html 파싱  
+urllib.request - html 문서 가져올 때 필요  
+pandas - 데이터를 데이터프레임으로 만들 때 필요  
 
-사용 함수:
-find_all: 기준에 맞는 태그를 모두 추출
-find: 조건을 만족하는 태그 하나만 추출   
+사용 함수:  
+find_all: 기준에 맞는 태그를 모두 추출  
+find: 조건을 만족하는 태그 하나만 추출  
 select: 여러 옵션을 사용해 원하는 데이터 추출    
 
 
